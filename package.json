@@ -1,0 +1,21 @@
+{
+  "name": "timestamp_mikroservice",
+  "version": "1.0.0",
+  "description": "freecodecamp.com saytida back end development and apis, projects, timestamp mikroservice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "shoxrux",
+  "keywords": [
+    "node",
+    "express",
+    "freeCodeCamp",
+    "timestamp mikroservice"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
